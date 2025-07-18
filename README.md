@@ -1,5 +1,10 @@
 ﻿Abbreviation Scoring System
 This Python program reads a list of names (e.g., tree names) from a file and generates 3-letter abbreviations. It assigns scores to each abbreviation based on custom per-letter scores and character position logic. The best abbreviation candidate for each name is selected and written to an output file.
+
+
+
+
+
 🗂 Project Contents
 text
 📂 abbreviation-score/
